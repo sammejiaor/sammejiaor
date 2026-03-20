@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 Systems and Computer Engineering || UNAL.   
-Junior programmer interested in software development, databases, and technology in general.
+Semi-senior programmer interested in software development, databases, and technology in general.
 
 Currently:
 - 📚 Learning and improving skills in C++ and Assembly
@@ -18,7 +18,7 @@ Currently:
 
 ## 🎓 Sobre mí (Español)
 Ingeniería de Sistemas y Computación || UNAL.  
-Programador junior interesado en el desarrollo de software, bases de datos y tecnología en general.
+Programador semi-senior interesado en el desarrollo de software, bases de datos y tecnología en general.
 
 Actualmente:
 - 📚 Aprendiendo y fortaleciendo habilidades en C++ y Assembly
@@ -91,11 +91,8 @@ Actualmente:
 ###
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sammejiaor/sammejiaor/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sammejiaor/sammejiaor/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sammejiaor/sammejiaor/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/sammejiaor/sammejiaor/output/snake.svg" alt="Snake animation" />
+
 
 <br clear="both">
 
