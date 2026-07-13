@@ -83,8 +83,6 @@ Actualmente:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sammejiaor&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=true&order=1" height="120" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sammejiaor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true&order=2" height="130" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=sammejiaor&locale=en&mode=weekly&theme=darcula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
